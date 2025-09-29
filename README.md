@@ -81,12 +81,6 @@ pip install pyserini transformers torch scikit-learn matplotlib pandas numpy
 
 ---
 
-## Format
-- **Notebook:** `.ipynb` (Google Colab)
-- **Data:** `.csv`
-- **Results:** `.png` charts & `.csv` tables
-
----
 
 ## License
 This project is intended for academic use only and is not licensed for commercial use.
